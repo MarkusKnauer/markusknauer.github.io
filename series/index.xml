@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Markus Knauer</title>
-    <link>https://github.com/MarkusKnauer/markusknauer.github.io/series/</link>
+    <link>https://markusknauer.github.io/series/</link>
     <description>Recent content in Series on Markus Knauer</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="https://github.com/MarkusKnauer/markusknauer.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://markusknauer.github.io/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

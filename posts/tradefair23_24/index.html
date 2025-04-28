@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-us">
 
 <head>
   <title>
@@ -34,12 +34,12 @@ The demonstration showed a ring-measuring task, where the robot arm picks a bear
   <meta name="twitter:description" content="Automatica 2023 &amp; Hannover fair 2024 Link to heading Presenting a robotic demonstrator at a trade fair is always exciting! 🚀
 At Automatica 2023 in Munich and Hannover fair 2024 in Hannover I presented an implementation of a Task-Parameterized approach (TP-GMM [1]) at the booth of the Institute of Robotics and Mechatronics of the German Aerospace Center (DLR) in the domain of future manufacturing. The demonstration showed a ring-measuring task, where the robot arm picks a bearing ring from a box and places it onto a measuring device. Thanks to the task-parameterized approach a generalization to different box and measuring-device positions was possible, which was necessary since we are showing a variable workcell, where changes can and will always happen.">
 
-<meta property="og:url" content="https://github.com/MarkusKnauer/markusknauer.github.io/posts/tradefair23_24/">
+<meta property="og:url" content="https://markusknauer.github.io/posts/tradefair23_24/">
   <meta property="og:site_name" content="Markus Knauer">
   <meta property="og:title" content="*Demonstration*: Showing a task-paramterized approach at Automatica and Hannover fair ">
   <meta property="og:description" content="Automatica 2023 &amp; Hannover fair 2024 Link to heading Presenting a robotic demonstrator at a trade fair is always exciting! 🚀
 At Automatica 2023 in Munich and Hannover fair 2024 in Hannover I presented an implementation of a Task-Parameterized approach (TP-GMM [1]) at the booth of the Institute of Robotics and Mechatronics of the German Aerospace Center (DLR) in the domain of future manufacturing. The demonstration showed a ring-measuring task, where the robot arm picks a bearing ring from a box and places it onto a measuring device. Thanks to the task-parameterized approach a generalization to different box and measuring-device positions was possible, which was necessary since we are showing a variable workcell, where changes can and will always happen.">
-  <meta property="og:locale" content="en">
+  <meta property="og:locale" content="en_us">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
     <meta property="article:published_time" content="2024-04-22T00:00:00+00:00">
@@ -48,7 +48,7 @@ At Automatica 2023 in Munich and Hannover fair 2024 in Hannover I presented an i
 
 
 
-<link rel="canonical" href="https://github.com/MarkusKnauer/markusknauer.github.io/posts/tradefair23_24/">
+<link rel="canonical" href="https://markusknauer.github.io/posts/tradefair23_24/">
 
 
 <link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
@@ -58,7 +58,7 @@ At Automatica 2023 in Munich and Hannover fair 2024 in Hannover I presented an i
 
   
   
-  <link rel="stylesheet" href="/MarkusKnauer/markusknauer.github.io/css/coder.min.7763f8bc6341ecf82378e867c285e1549abb063a899be313ccd25dbfcd24fa7d.css" integrity="sha256-d2P4vGNB7PgjeOhnwoXhVJq7BjqJm&#43;MTzNJdv80k&#43;n0=" crossorigin="anonymous" media="screen" />
+  <link rel="stylesheet" href="/css/coder.min.7763f8bc6341ecf82378e867c285e1549abb063a899be313ccd25dbfcd24fa7d.css" integrity="sha256-d2P4vGNB7PgjeOhnwoXhVJq7BjqJm&#43;MTzNJdv80k&#43;n0=" crossorigin="anonymous" media="screen" />
 
 
 
@@ -68,7 +68,7 @@ At Automatica 2023 in Munich and Hannover fair 2024 in Hannover I presented an i
   
     
     
-    <link rel="stylesheet" href="/MarkusKnauer/markusknauer.github.io/css/coder-dark.min.a00e6364bacbc8266ad1cc81230774a1397198f8cfb7bcba29b7d6fcb54ce57f.css" integrity="sha256-oA5jZLrLyCZq0cyBIwd0oTlxmPjPt7y6KbfW/LVM5X8=" crossorigin="anonymous" media="screen" />
+    <link rel="stylesheet" href="/css/coder-dark.min.a00e6364bacbc8266ad1cc81230774a1397198f8cfb7bcba29b7d6fcb54ce57f.css" integrity="sha256-oA5jZLrLyCZq0cyBIwd0oTlxmPjPt7y6KbfW/LVM5X8=" crossorigin="anonymous" media="screen" />
   
 
 
@@ -96,8 +96,6 @@ At Automatica 2023 in Munich and Hannover fair 2024 in Hannover I presented an i
 
 
 
-<link rel="icon" href="/favicon.jpg" type="image/jpg">
-
 </head>
 
 
@@ -118,7 +116,7 @@ At Automatica 2023 in Munich and Hannover fair 2024 in Hannover I presented an i
     <nav class="navigation">
   <section class="container">
     
-    <a class="navigation-title" href="https://github.com/MarkusKnauer/markusknauer.github.io/">
+    <a class="navigation-title" href="https://markusknauer.github.io/">
       Markus Knauer
     </a>
     
@@ -131,15 +129,15 @@ At Automatica 2023 in Munich and Hannover fair 2024 in Hannover I presented an i
         
           
             <li class="navigation-item">
-              <a class="navigation-link " href="/MarkusKnauer/markusknauer.github.io/posts/">Blog</a>
+              <a class="navigation-link " href="/posts/">Blog</a>
             </li>
           
             <li class="navigation-item">
-              <a class="navigation-link " href="/MarkusKnauer/markusknauer.github.io/cv/">CV</a>
+              <a class="navigation-link " href="/cv/">CV</a>
             </li>
           
             <li class="navigation-item">
-              <a class="navigation-link " href="/MarkusKnauer/markusknauer.github.io/about/">About</a>
+              <a class="navigation-link " href="/about/">About</a>
             </li>
           
         
@@ -157,7 +155,7 @@ At Automatica 2023 in Munich and Hannover fair 2024 in Hannover I presented an i
       <header>
         <div class="post-title">
           <h1 class="title">
-            <a class="title-link" href="https://github.com/MarkusKnauer/markusknauer.github.io/posts/tradefair23_24/">
+            <a class="title-link" href="https://markusknauer.github.io/posts/tradefair23_24/">
               *Demonstration*: Showing a task-paramterized approach at Automatica and Hannover fair 
             </a>
           </h1>
@@ -172,7 +170,7 @@ At Automatica 2023 in Munich and Hannover fair 2024 in Hannover I presented an i
             </span>
             <span class="reading-time">
               <i class="fa-solid fa-clock" aria-hidden="true"></i>
-              One-minute read
+              
             </span>
           </div>
           
@@ -190,12 +188,12 @@ At Automatica 2023 in Munich and Hannover fair 2024 in Hannover I presented an i
     <span class="sr-only">Link to heading</span>
   </a>
 </h1>
-<img src="/MarkusKnauer/markusknauer.github.io/images/tradefair.jpeg" style="height: 300px;"/>
+<img src="/markusknauer.github.io/images/tradefair.jpeg" style="height: 300px;"/>
 <p>Presenting a robotic demonstrator at a trade fair is always exciting! 🚀</p>
 <p>At <a href="https://factory-of-the-future.dlr.de/2023/05/31/27-30-juni-2023-automatica-2023/index.html"  class="external-link" target="_blank" rel="noopener">Automatica 2023</a> in Munich and <a href="https://www.dlr.de/de/aktuelles/nachrichten/2024/das-dlr-auf-der-hannover-messe-2024"  class="external-link" target="_blank" rel="noopener">Hannover fair</a> 2024 in Hannover I presented an implementation of a Task-Parameterized approach (TP-GMM [1])
 at the booth of the <a href="https://www.dlr.de/rm"  class="external-link" target="_blank" rel="noopener">Institute of Robotics and Mechatronics</a> of the <a href="https://www.dlr.de"  class="external-link" target="_blank" rel="noopener">German Aerospace Center (DLR)</a> in the domain of future manufacturing.
 The demonstration showed a ring-measuring task, where the robot arm picks a bearing ring from a box and places it onto a measuring device. Thanks to the task-parameterized approach a generalization to different box and measuring-device positions was possible, which was necessary since we are showing a variable workcell, where changes can and will always happen.</p>
-<img src="/MarkusKnauer/markusknauer.github.io/images/fair_demo.jpeg" style="height: 300px;"/>
+<img src="/markusknauer.github.io/images/fair_demo.jpeg" style="height: 300px;"/>
 <p><a href="https://factory-of-the-future.dlr.de/index.html"  class="external-link" target="_blank" rel="noopener">#FactoryOfTheFuture</a> – A concept of flexible and reconfigurable manufacturing with our <a href="https://www.dlr.de/de/rm/forschung/robotersysteme/arme/sara"  class="external-link" target="_blank" rel="noopener">#SARA</a> robotic arm.</p>
 <p>[1] Calinon, S. &ldquo;A tutorial on task-parameterized movement learning and retrieval.&rdquo; In Intel Serv Robotics 9, 1–29 (2016). <a href="https://doi.org/10.1007/s11370-015-0187-9"  class="external-link" target="_blank" rel="noopener">https://doi.org/10.1007/s11370-015-0187-9</a></p>
 
@@ -252,7 +250,7 @@ The demonstration showed a ring-measuring task, where the robot arm picks a bear
      Markus Knauer 
     ·
     
-    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+     <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
     
   </section>
 </footer>
@@ -263,7 +261,7 @@ The demonstration showed a ring-measuring task, where the robot arm picks a bear
 
   
   
-  <script src="/MarkusKnauer/markusknauer.github.io/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js" integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script>
+  <script src="/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js" integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script>
   
 
   
