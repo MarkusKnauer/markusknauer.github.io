@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Markus Knauer</title>
+    <link>https://github.com/MarkusKnauer/markusknauer.github.io/posts/</link>
+    <description>Recent content in Posts on Markus Knauer</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://github.com/MarkusKnauer/markusknauer.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> *RA-L Paper*: &#34;Interactive Incremental Learning of Generalizable Skills With Local Trajectory Modulation&#34; </title>
+      <link>https://github.com/MarkusKnauer/markusknauer.github.io/posts/ral_2025/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://github.com/MarkusKnauer/markusknauer.github.io/posts/ral_2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>*Demonstration*: Showing a task-paramterized approach at Automatica and Hannover fair </title>
+      <link>https://github.com/MarkusKnauer/markusknauer.github.io/posts/tradefair23_24/</link>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://github.com/MarkusKnauer/markusknauer.github.io/posts/tradefair23_24/</guid>
+      <description>&lt;h1 id=&#34;automatica-2023--hannover-fair-2024&#34;&gt;&#xA;  Automatica 2023 &amp;amp; Hannover fair 2024&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#automatica-2023--hannover-fair-2024&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;img src=&#34;https://github.com/MarkusKnauer/markusknauer.github.io/images/tradefair.jpeg&#34; style=&#34;height: 300px;&#34;/&gt;&#xA;&lt;p&gt;Presenting a robotic demonstrator at a trade fair is always exciting! 🚀&lt;/p&gt;&#xA;&lt;p&gt;At &lt;a href=&#34;https://factory-of-the-future.dlr.de/2023/05/31/27-30-juni-2023-automatica-2023/index.html&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Automatica 2023&lt;/a&gt; in Munich and &lt;a href=&#34;https://www.dlr.de/de/aktuelles/nachrichten/2024/das-dlr-auf-der-hannover-messe-2024&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hannover fair&lt;/a&gt; 2024 in Hannover I presented an implementation of a Task-Parameterized approach (TP-GMM [1])&#xA;at the booth of the &lt;a href=&#34;https://www.dlr.de/rm&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institute of Robotics and Mechatronics&lt;/a&gt; of the &lt;a href=&#34;https://www.dlr.de&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;German Aerospace Center (DLR)&lt;/a&gt; in the domain of future manufacturing.&#xA;The demonstration showed a ring-measuring task, where the robot arm picks a bearing ring from a box and places it onto a measuring device. Thanks to the task-parameterized approach a generalization to different box and measuring-device positions was possible, which was necessary since we are showing a variable workcell, where changes can and will always happen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> *Project*: BlenderProc: A procedural Blender pipeline for photorealistic rendering. (3k Stars on GitHub!)</title>
+      <link>https://github.com/MarkusKnauer/markusknauer.github.io/posts/blenderproc/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://github.com/MarkusKnauer/markusknauer.github.io/posts/blenderproc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title> *Published Dataset*: &#34;HOWS-CL-25: Household Objects Within Simulation Dataset for Continual Learning&#34;  </title>
+      <link>https://github.com/MarkusKnauer/markusknauer.github.io/posts/hows/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://github.com/MarkusKnauer/markusknauer.github.io/posts/hows/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>*IROS Paper*: &#34;RECALL: Rehearsal-free Continual Learning for Object Classification&#34; </title>
+      <link>https://github.com/MarkusKnauer/markusknauer.github.io/posts/recall/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://github.com/MarkusKnauer/markusknauer.github.io/posts/recall/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

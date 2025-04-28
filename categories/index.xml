@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Markus Knauer</title>
+    <link>https://github.com/MarkusKnauer/markusknauer.github.io/categories/</link>
+    <description>Recent content in Categories on Markus Knauer</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://github.com/MarkusKnauer/markusknauer.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://github.com/MarkusKnauer/markusknauer.github.io/categories/ai/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://github.com/MarkusKnauer/markusknauer.github.io/categories/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IncrementalLearning</title>
+      <link>https://github.com/MarkusKnauer/markusknauer.github.io/categories/incrementallearning/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://github.com/MarkusKnauer/markusknauer.github.io/categories/incrementallearning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>InteractiveLearning</title>
+      <link>https://github.com/MarkusKnauer/markusknauer.github.io/categories/interactivelearning/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://github.com/MarkusKnauer/markusknauer.github.io/categories/interactivelearning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MachineLearning</title>
+      <link>https://github.com/MarkusKnauer/markusknauer.github.io/categories/machinelearning/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://github.com/MarkusKnauer/markusknauer.github.io/categories/machinelearning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Robotics</title>
+      <link>https://github.com/MarkusKnauer/markusknauer.github.io/categories/robotics/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://github.com/MarkusKnauer/markusknauer.github.io/categories/robotics/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

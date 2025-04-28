@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IncrementalLearning on Markus Knauer</title>
+    <link>https://github.com/MarkusKnauer/markusknauer.github.io/categories/incrementallearning/</link>
+    <description>Recent content in IncrementalLearning on Markus Knauer</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://github.com/MarkusKnauer/markusknauer.github.io/categories/incrementallearning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> *RA-L Paper*: &#34;Interactive Incremental Learning of Generalizable Skills With Local Trajectory Modulation&#34; </title>
+      <link>https://github.com/MarkusKnauer/markusknauer.github.io/posts/ral_2025/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://github.com/MarkusKnauer/markusknauer.github.io/posts/ral_2025/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
