@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://markusknauer.github.io/posts/rag/</loc>
+    <lastmod>2025-04-28T08:59:00+02:00</lastmod>
+  </url><url>
     <loc>https://markusknauer.github.io/</loc>
     <lastmod>2025-04-28T08:59:00+02:00</lastmod>
   </url><url>
@@ -48,6 +51,18 @@
     <lastmod>2024-04-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://markusknauer.github.io/posts/blenderproc/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markusknauer.github.io/categories/blender/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markusknauer.github.io/categories/computer-vision/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markusknauer.github.io/categories/deep-learning/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markusknauer.github.io/categories/open-source/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://markusknauer.github.io/posts/hows/</loc>
