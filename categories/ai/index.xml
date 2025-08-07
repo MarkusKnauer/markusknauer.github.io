@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ai on Markus Knauer</title>
-    <link>http://localhost:1313/categories/ai/</link>
+    <link>https://markusknauer.github.io/categories/ai/</link>
     <description>Recent content in Ai on Markus Knauer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Apr 2025 08:59:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://markusknauer.github.io/categories/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title> *ICRA Paper*: &#34;Grounding Embodied Question-Answering with State Summaries from Existing Robot Modules&#34;  </title>
-      <link>http://localhost:1313/posts/icra-rag-embodied-qa/</link>
+      <link>https://markusknauer.github.io/posts/icra-rag-embodied-qa/</link>
       <pubDate>Mon, 28 Apr 2025 08:59:00 +0200</pubDate>
-      <guid>http://localhost:1313/posts/icra-rag-embodied-qa/</guid>
+      <guid>https://markusknauer.github.io/posts/icra-rag-embodied-qa/</guid>
       <description>&lt;p&gt;Our approach for &lt;strong&gt;truthful&lt;/strong&gt; &lt;strong&gt;foundation model&lt;/strong&gt; (&lt;strong&gt;LLM&lt;/strong&gt;) question-answering using &lt;em&gt;RAG&lt;/em&gt; methods in &lt;strong&gt;robotics&lt;/strong&gt; was accepted by &lt;strong&gt;IEEE ICRA&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/OX-dd5PiiZo?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Paper on IEEE *coming soon!&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://elib.dlr.de/205203/%22&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper on Elib&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://youtu.be/OX-dd5PiiZo?si=oB5V8kO_cFpCnSgW&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube Link&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title> *RA-L Paper*: &#34;Interactive Incremental Learning of Generalizable Skills With Local Trajectory Modulation&#34; </title>
-      <link>http://localhost:1313/posts/ral-interactive-incremental-learning/</link>
+      <link>https://markusknauer.github.io/posts/ral-interactive-incremental-learning/</link>
       <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ral-interactive-incremental-learning/</guid>
+      <guid>https://markusknauer.github.io/posts/ral-interactive-incremental-learning/</guid>
       <description>&lt;p&gt;Our approach on probabilistic machine learning method for &lt;strong&gt;interactive robot skill modulation&lt;/strong&gt; using a &lt;strong&gt;task-parameterized,&lt;/strong&gt; &lt;strong&gt;kernelized&lt;/strong&gt; method (TP-KMP) got published in IEEE Robotics and Automation Letters (&lt;strong&gt;RA-L&lt;/strong&gt;).&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/nqigz0l1syA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10887119/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper on IEEE&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2409.05655&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper on ArXiv&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://elib.dlr.de/212796/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper on Elib&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://youtu.be/nqigz0l1syA&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube Link&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For more information please follow the link to the GitHub project:&lt;/p&gt;</description>
     </item>
     <item>
       <title>*IROS Paper*: &#34;RECALL: Rehearsal-free Continual Learning for Object Classification&#34; </title>
-      <link>http://localhost:1313/posts/recall-continual-learning-iros/</link>
+      <link>https://markusknauer.github.io/posts/recall-continual-learning-iros/</link>
       <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/recall-continual-learning-iros/</guid>
+      <guid>https://markusknauer.github.io/posts/recall-continual-learning-iros/</guid>
       <description>&lt;p&gt;Our approach for &lt;strong&gt;rehearsal-free&lt;/strong&gt; &lt;strong&gt;object classification&lt;/strong&gt; in a &lt;strong&gt;continual/incremental&lt;/strong&gt; fashion with &lt;strong&gt;SOTA&lt;/strong&gt; results was published in &lt;strong&gt;IEEE IROS&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/P9buxiinVeI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/9981968&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper on IEEE&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2209.14774&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper on ArXiv&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://elib.dlr.de/190097/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper on Elib&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://youtu.be/P9buxiinVeI&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube Link&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For more information please follow the link to the GitHub project:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/DLR-RM/RECALL&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/DLR-RM/RECALL&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
