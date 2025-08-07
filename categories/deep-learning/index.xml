@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep Learning on Markus Knauer</title>
-    <link>https://markusknauer.github.io/categories/deep-learning/</link>
+    <link>http://localhost:1313/categories/deep-learning/</link>
     <description>Recent content in Deep Learning on Markus Knauer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://markusknauer.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title> *Project*: BlenderProc: A procedural Blender pipeline for photorealistic rendering. (&gt;3k Stars on GitHub!)</title>
-      <link>https://markusknauer.github.io/posts/blenderproc/</link>
+      <link>http://localhost:1313/posts/blenderproc-project/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/posts/blenderproc/</guid>
-      <description>&lt;p align=&#34;center&#34;&gt;&#xA;&lt;img src=&#34;https://markusknauer.github.io/images/blenderproc.gif&#34; alt=&#34;Blenderproc&#34; width=100%&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Very popular &lt;strong&gt;open source&lt;/strong&gt; project for fast creation of training images for &lt;strong&gt;deep neural networks&lt;/strong&gt; in &lt;strong&gt;computer vision&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;For more information please follow the link to the GitHub project:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/DLR-RM/BlenderProc&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/DLR-RM/BlenderProc&lt;/a&gt; (&amp;gt;3k stars)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/posts/blenderproc-project/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/blenderproc.gif&#34; alt=&#34;Blenderproc&#34; width=100%&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Very popular &lt;strong&gt;open source&lt;/strong&gt; project for fast creation of training images for &lt;strong&gt;deep neural networks&lt;/strong&gt; in &lt;strong&gt;computer vision&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;For more information please follow the link to the GitHub project:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/DLR-RM/BlenderProc&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/DLR-RM/BlenderProc&lt;/a&gt; (&amp;gt;3k stars)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title> *Published Dataset*: &#34;HOWS-CL-25: Household Objects Within Simulation Dataset for Continual Learning&#34;  </title>
+      <link>http://localhost:1313/posts/hows-cl-25-dataset/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hows-cl-25-dataset/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Dataset&lt;/strong&gt; created with &lt;strong&gt;BlenderProc&lt;/strong&gt;, which includes 150,795 unique synthetic images using 25 different household categories with 925 3D models.&lt;/p&gt;&#xA;&lt;p align=&#34;center&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/images/hows_overview.jpg&#34; width=&#34;500&#34;&gt;&#xA;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://zenodo.org/records/7189434&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to Dataset&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/9981968&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper on IEEE&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2209.14774&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper on ArXiv&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://elib.dlr.de/190097/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper on Elib&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/P9buxiinVeI&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube Link&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For more information please follow the link to the GitHub project:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/DLR-RM/RECALL&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/DLR-RM/RECALL&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

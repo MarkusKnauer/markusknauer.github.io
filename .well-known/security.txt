@@ -1,0 +1,5 @@
+Contact: https://github.com/MarkusKnauer/issues
+Contact: https://de.linkedin.com/in/markus-knauer
+Expires: 2025-12-31T23:59:59Z
+Preferred-Languages: en, de
+Canonical: https://markusknauer.github.io/.well-known/security.txt
