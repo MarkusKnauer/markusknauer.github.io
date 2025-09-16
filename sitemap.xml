@@ -2,27 +2,242 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://markusknauer.github.io/tags/ai-education/</loc>
+    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/authors/</loc>
+    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/bayesian-ml/</loc>
+    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/cambridge-university/</loc>
+    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/categories/</loc>
+    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/categories/conferences/</loc>
+    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/deep-learning/</loc>
+    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/categories/education/</loc>
+    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/ellis/</loc>
+    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/ellis-cambridge/</loc>
+    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/generative-ai/</loc>
+    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/categories/machine-learning/</loc>
+    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/machine-learning/</loc>
+    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/</loc>
+    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/authors/markus-knauer/</loc>
+    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/ml-training/</loc>
+    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/oxford/</loc>
+    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/oxford-university/</loc>
+    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/oxml-oxford/</loc>
+    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/posts/</loc>
+    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/probabilistic-ml/</loc>
+    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/representation-learning/</loc>
+    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/posts/summer-schools-2025/</loc>
+    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/summer-school/</loc>
+    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/</loc>
+    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/ai/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/aimm/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/assistive-robotics/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/automatica/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/categories/dlr/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/dlr/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/posts/dlr-automatica-2025/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/edan/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/german-aerospace-center/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/haptic-feedback/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/hug-interface/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/humanoid-robots/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/kmp/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/llm-robotics/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/munich/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/categories/robotics/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/robotics/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/sara-robot/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/toro/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/trade-fair/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://markusknauer.github.io/tags/trade-fair-2025/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://markusknauer.github.io/posts/icra-rag-embodied-qa/</loc>
     <lastmod>2025-04-28T08:59:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://markusknauer.github.io/categories/ai/</loc>
-    <lastmod>2025-04-28T08:59:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://markusknauer.github.io/tags/ai/</loc>
-    <lastmod>2025-04-28T08:59:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://markusknauer.github.io/authors/</loc>
-    <lastmod>2025-04-28T08:59:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://markusknauer.github.io/categories/</loc>
     <lastmod>2025-04-28T08:59:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -37,37 +252,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://markusknauer.github.io/</loc>
-    <lastmod>2025-04-28T08:59:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://markusknauer.github.io/authors/markus-knauer/</loc>
-    <lastmod>2025-04-28T08:59:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://markusknauer.github.io/posts/</loc>
-    <lastmod>2025-04-28T08:59:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://markusknauer.github.io/tags/rag/</loc>
-    <lastmod>2025-04-28T08:59:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://markusknauer.github.io/categories/robotics/</loc>
-    <lastmod>2025-04-28T08:59:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://markusknauer.github.io/tags/robotics/</loc>
-    <lastmod>2025-04-28T08:59:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://markusknauer.github.io/tags/</loc>
     <lastmod>2025-04-28T08:59:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -92,32 +277,22 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://markusknauer.github.io/categories/incremental-learning/</loc>
+    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://markusknauer.github.io/tags/incremental-learning/</loc>
     <lastmod>2025-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://markusknauer.github.io/categories/incrementallearning/</loc>
+    <loc>https://markusknauer.github.io/categories/interactive-learning/</loc>
     <lastmod>2025-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://markusknauer.github.io/tags/interactive-learning/</loc>
-    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://markusknauer.github.io/categories/interactivelearning/</loc>
-    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://markusknauer.github.io/tags/machine-learning/</loc>
-    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://markusknauer.github.io/categories/machinelearning/</loc>
     <lastmod>2025-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -133,11 +308,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://markusknauer.github.io/posts/automatica-hannover-demo/</loc>
-    <lastmod>2024-04-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://markusknauer.github.io/tags/automatica/</loc>
     <lastmod>2024-04-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -188,11 +358,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://markusknauer.github.io/categories/deep-learning/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://markusknauer.github.io/tags/deep-learning/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
