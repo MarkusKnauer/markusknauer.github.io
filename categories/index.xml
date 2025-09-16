@@ -6,41 +6,62 @@
     <description>Recent content in Categories on Markus Knauer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Apr 2025 08:59:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://markusknauer.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ai</title>
+      <title>Conferences</title>
+      <link>https://markusknauer.github.io/categories/conferences/</link>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://markusknauer.github.io/categories/conferences/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Education</title>
+      <link>https://markusknauer.github.io/categories/education/</link>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://markusknauer.github.io/categories/education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine-Learning</title>
+      <link>https://markusknauer.github.io/categories/machine-learning/</link>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://markusknauer.github.io/categories/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DLR</title>
+      <link>https://markusknauer.github.io/categories/dlr/</link>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://markusknauer.github.io/categories/dlr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Robotics</title>
+      <link>https://markusknauer.github.io/categories/robotics/</link>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://markusknauer.github.io/categories/robotics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
       <link>https://markusknauer.github.io/categories/ai/</link>
       <pubDate>Mon, 28 Apr 2025 08:59:00 +0200</pubDate>
       <guid>https://markusknauer.github.io/categories/ai/</guid>
       <description></description>
     </item>
     <item>
-      <title>Robotics</title>
-      <link>https://markusknauer.github.io/categories/robotics/</link>
-      <pubDate>Mon, 28 Apr 2025 08:59:00 +0200</pubDate>
-      <guid>https://markusknauer.github.io/categories/robotics/</guid>
+      <title>Incremental-Learning</title>
+      <link>https://markusknauer.github.io/categories/incremental-learning/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://markusknauer.github.io/categories/incremental-learning/</guid>
       <description></description>
     </item>
     <item>
-      <title>Incrementallearning</title>
-      <link>https://markusknauer.github.io/categories/incrementallearning/</link>
+      <title>Interactive-Learning</title>
+      <link>https://markusknauer.github.io/categories/interactive-learning/</link>
       <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/categories/incrementallearning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Interactivelearning</title>
-      <link>https://markusknauer.github.io/categories/interactivelearning/</link>
-      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/categories/interactivelearning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Machinelearning</title>
-      <link>https://markusknauer.github.io/categories/machinelearning/</link>
-      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/categories/machinelearning/</guid>
+      <guid>https://markusknauer.github.io/categories/interactive-learning/</guid>
       <description></description>
     </item>
     <item>
@@ -51,7 +72,7 @@
       <description></description>
     </item>
     <item>
-      <title>Computer Vision</title>
+      <title>Computer-Vision</title>
       <link>https://markusknauer.github.io/categories/computer-vision/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://markusknauer.github.io/categories/computer-vision/</guid>
