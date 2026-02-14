@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HRI on Markus Knauer</title>
-    <link>http://localhost:1313/tags/hri/</link>
+    <link>https://markusknauer.github.io/tags/hri/</link>
     <description>Recent content in HRI on Markus Knauer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/hri/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://markusknauer.github.io/tags/hri/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>**CoRL 2024:** Spotlight Presentation at CoRoboLearn Workshop</title>
-      <link>http://localhost:1313/posts/corl-2024-corobolearn-workshop/</link>
+      <link>https://markusknauer.github.io/posts/corl-2024-corobolearn-workshop/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/corl-2024-corobolearn-workshop/</guid>
+      <guid>https://markusknauer.github.io/posts/corl-2024-corobolearn-workshop/</guid>
       <description>&lt;p&gt;I presented two papers at the &lt;a href=&#34;https://sites.google.com/view/corobolearn&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CoRoboLearn: Advancing Learning for Human-Centered Collaborative Robots&lt;/a&gt; workshop at the &lt;a href=&#34;https://www.corl.org/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference on Robot Learning (CoRL) 2024&lt;/a&gt; in Munich, Germany.&lt;/p&gt;&#xA;&lt;p&gt;Our first-author paper on &lt;strong&gt;interactive incremental skill learning&lt;/strong&gt; was selected for a &lt;strong&gt;spotlight presentation&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;h3 id=&#34;spotlight-interactive-incremental-imitation-learning-of-generalizable-skills-with-local-trajectory-modulation&#34;&gt;&#xA;  Spotlight: Interactive Incremental Imitation Learning of Generalizable Skills with Local Trajectory Modulation&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#spotlight-interactive-incremental-imitation-learning-of-generalizable-skills-with-local-trajectory-modulation&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Knauer, M.&lt;/strong&gt;, Albu-Schäffer, A., Stulp, F., Silvério, J.&lt;/p&gt;&#xA;&lt;p&gt;We present a method for interactive, incremental learning of generalizable robot manipulation skills using task-parameterized kernelized movement primitives. Physical corrections transfer across task configurations through local trajectory modulation, and uncertainty-driven variable impedance ensures safe interaction.&lt;/p&gt;</description>
     </item>
     <item>
       <title>**RSS 2024:** Embodied Question-Answering at GenAI-HRI Workshop</title>
-      <link>http://localhost:1313/posts/rss-2024-genai-hri-workshop/</link>
+      <link>https://markusknauer.github.io/posts/rss-2024-genai-hri-workshop/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/rss-2024-genai-hri-workshop/</guid>
+      <guid>https://markusknauer.github.io/posts/rss-2024-genai-hri-workshop/</guid>
       <description>&lt;p&gt;We presented our work on &lt;strong&gt;grounded embodied question-answering&lt;/strong&gt; at the &lt;a href=&#34;https://sites.google.com/view/gai-hri-2024&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Generative Modeling meets HRI (GenAI-HRI)&lt;/a&gt; workshop at &lt;a href=&#34;https://roboticsconference.org/2024/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robotics: Science and Systems (RSS) 2024&lt;/a&gt; in Delft, Netherlands.&lt;/p&gt;&#xA;&lt;p&gt;Our approach uses &lt;strong&gt;RAG&lt;/strong&gt; (Retrieval-Augmented Generation) methods to ground &lt;strong&gt;foundation model&lt;/strong&gt; (&lt;strong&gt;LLM&lt;/strong&gt;) responses in actual robot state summaries from existing robot modules, enabling &lt;strong&gt;truthful&lt;/strong&gt; question-answering about the robot&amp;rsquo;s current situation and capabilities.&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/OX-dd5PiiZo?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://elib.dlr.de/205203/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper on Elib&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://youtu.be/OX-dd5PiiZo?si=oB5V8kO_cFpCnSgW&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube Link&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://sites.google.com/view/gai-hri-2024&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GenAI-HRI Workshop&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
