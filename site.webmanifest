@@ -1,0 +1,21 @@
+{
+  "name": "Markus Knauer",
+  "short_name": "M. Knauer",
+  "description": "Research Scientist at DLR and PhD candidate at TUM",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#fafafa",
+  "theme_color": "#1565c0",
+  "icons": [
+    {
+      "src": "/images/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

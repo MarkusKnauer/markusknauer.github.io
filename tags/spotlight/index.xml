@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spotlight on Markus Knauer</title>
+    <link>http://localhost:1313/tags/spotlight/</link>
+    <description>Recent content in Spotlight on Markus Knauer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/spotlight/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>**CoRL 2024:** Spotlight Presentation at CoRoboLearn Workshop</title>
+      <link>http://localhost:1313/posts/corl-2024-corobolearn-workshop/</link>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/corl-2024-corobolearn-workshop/</guid>
+      <description>&lt;p&gt;I presented two papers at the &lt;a href=&#34;https://sites.google.com/view/corobolearn&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CoRoboLearn: Advancing Learning for Human-Centered Collaborative Robots&lt;/a&gt; workshop at the &lt;a href=&#34;https://www.corl.org/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference on Robot Learning (CoRL) 2024&lt;/a&gt; in Munich, Germany.&lt;/p&gt;&#xA;&lt;p&gt;Our first-author paper on &lt;strong&gt;interactive incremental skill learning&lt;/strong&gt; was selected for a &lt;strong&gt;spotlight presentation&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;h3 id=&#34;spotlight-interactive-incremental-imitation-learning-of-generalizable-skills-with-local-trajectory-modulation&#34;&gt;&#xA;  Spotlight: Interactive Incremental Imitation Learning of Generalizable Skills with Local Trajectory Modulation&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#spotlight-interactive-incremental-imitation-learning-of-generalizable-skills-with-local-trajectory-modulation&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Knauer, M.&lt;/strong&gt;, Albu-Schäffer, A., Stulp, F., Silvério, J.&lt;/p&gt;&#xA;&lt;p&gt;We present a method for interactive, incremental learning of generalizable robot manipulation skills using task-parameterized kernelized movement primitives. Physical corrections transfer across task configurations through local trajectory modulation, and uncertainty-driven variable impedance ensures safe interaction.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

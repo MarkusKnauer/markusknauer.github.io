@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>KMP on Markus Knauer</title>
-    <link>https://markusknauer.github.io/tags/kmp/</link>
+    <link>http://localhost:1313/tags/kmp/</link>
     <description>Recent content in KMP on Markus Knauer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://markusknauer.github.io/tags/kmp/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/kmp/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>DLR at Automatica 2025: Showcasing the Future of Robotics</title>
-      <link>https://markusknauer.github.io/posts/dlr-automatica-2025/</link>
+      <title>**Automatica 2025:** DLR Showcasing the Future of Robotics</title>
+      <link>http://localhost:1313/posts/dlr-automatica-2025/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/posts/dlr-automatica-2025/</guid>
+      <guid>http://localhost:1313/posts/dlr-automatica-2025/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://automatica-munich.com/en/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Automatica 2025&lt;/a&gt; in Munich showcased the latest advances in robotics and automation technology. DLR made a strong impression with our expansive booth spanning two areas in Hall B4 (Stand 321/324), where we demonstrated cutting-edge robotics and AI integration.&lt;/p&gt;&#xA;&lt;h2 id=&#34;dlrs-robotics-showcase&#34;&gt;&#xA;  DLR&amp;rsquo;s Robotics Showcase&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#dlrs-robotics-showcase&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Our Institute of Robotics and Mechatronics presented five groundbreaking systems:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.dlr.de/de/rm/forschung/robotersysteme/humanoide/toro&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TORO&lt;/a&gt;&lt;/strong&gt; - Our bipedal humanoid robot demonstrates advanced locomotion, climbing stairs and navigating obstacles with enhanced perception capabilities.&lt;/p&gt;</description>
     </item>
   </channel>

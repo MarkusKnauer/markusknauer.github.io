@@ -2,388 +2,430 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Markus Knauer</title>
-    <link>https://markusknauer.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Markus Knauer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://markusknauer.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI-Education</title>
-      <link>https://markusknauer.github.io/tags/ai-education/</link>
+      <link>http://localhost:1313/tags/ai-education/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/ai-education/</guid>
+      <guid>http://localhost:1313/tags/ai-education/</guid>
       <description></description>
     </item>
     <item>
       <title>Bayesian-ML</title>
-      <link>https://markusknauer.github.io/tags/bayesian-ml/</link>
+      <link>http://localhost:1313/tags/bayesian-ml/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/bayesian-ml/</guid>
+      <guid>http://localhost:1313/tags/bayesian-ml/</guid>
       <description></description>
     </item>
     <item>
       <title>Cambridge-University</title>
-      <link>https://markusknauer.github.io/tags/cambridge-university/</link>
+      <link>http://localhost:1313/tags/cambridge-university/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/cambridge-university/</guid>
+      <guid>http://localhost:1313/tags/cambridge-university/</guid>
       <description></description>
     </item>
     <item>
       <title>Deep-Learning</title>
-      <link>https://markusknauer.github.io/tags/deep-learning/</link>
+      <link>http://localhost:1313/tags/deep-learning/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/deep-learning/</guid>
+      <guid>http://localhost:1313/tags/deep-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>ELLIS</title>
-      <link>https://markusknauer.github.io/tags/ellis/</link>
+      <link>http://localhost:1313/tags/ellis/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/ellis/</guid>
+      <guid>http://localhost:1313/tags/ellis/</guid>
       <description></description>
     </item>
     <item>
       <title>ELLIS-Cambridge</title>
-      <link>https://markusknauer.github.io/tags/ellis-cambridge/</link>
+      <link>http://localhost:1313/tags/ellis-cambridge/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/ellis-cambridge/</guid>
+      <guid>http://localhost:1313/tags/ellis-cambridge/</guid>
       <description></description>
     </item>
     <item>
       <title>Generative-AI</title>
-      <link>https://markusknauer.github.io/tags/generative-ai/</link>
+      <link>http://localhost:1313/tags/generative-ai/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/generative-ai/</guid>
+      <guid>http://localhost:1313/tags/generative-ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine-Learning</title>
-      <link>https://markusknauer.github.io/tags/machine-learning/</link>
+      <link>http://localhost:1313/tags/machine-learning/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/machine-learning/</guid>
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>ML-Training</title>
-      <link>https://markusknauer.github.io/tags/ml-training/</link>
+      <link>http://localhost:1313/tags/ml-training/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/ml-training/</guid>
+      <guid>http://localhost:1313/tags/ml-training/</guid>
       <description></description>
     </item>
     <item>
       <title>Oxford</title>
-      <link>https://markusknauer.github.io/tags/oxford/</link>
+      <link>http://localhost:1313/tags/oxford/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/oxford/</guid>
+      <guid>http://localhost:1313/tags/oxford/</guid>
       <description></description>
     </item>
     <item>
       <title>Oxford-University</title>
-      <link>https://markusknauer.github.io/tags/oxford-university/</link>
+      <link>http://localhost:1313/tags/oxford-university/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/oxford-university/</guid>
+      <guid>http://localhost:1313/tags/oxford-university/</guid>
       <description></description>
     </item>
     <item>
       <title>OxML-Oxford</title>
-      <link>https://markusknauer.github.io/tags/oxml-oxford/</link>
+      <link>http://localhost:1313/tags/oxml-oxford/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/oxml-oxford/</guid>
+      <guid>http://localhost:1313/tags/oxml-oxford/</guid>
       <description></description>
     </item>
     <item>
       <title>Probabilistic-ML</title>
-      <link>https://markusknauer.github.io/tags/probabilistic-ml/</link>
+      <link>http://localhost:1313/tags/probabilistic-ml/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/probabilistic-ml/</guid>
+      <guid>http://localhost:1313/tags/probabilistic-ml/</guid>
       <description></description>
     </item>
     <item>
       <title>Representation-Learning</title>
-      <link>https://markusknauer.github.io/tags/representation-learning/</link>
+      <link>http://localhost:1313/tags/representation-learning/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/representation-learning/</guid>
+      <guid>http://localhost:1313/tags/representation-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Summer-School</title>
-      <link>https://markusknauer.github.io/tags/summer-school/</link>
+      <link>http://localhost:1313/tags/summer-school/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/summer-school/</guid>
+      <guid>http://localhost:1313/tags/summer-school/</guid>
       <description></description>
     </item>
     <item>
       <title>AI</title>
-      <link>https://markusknauer.github.io/tags/ai/</link>
+      <link>http://localhost:1313/tags/ai/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/ai/</guid>
+      <guid>http://localhost:1313/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>AIMM</title>
-      <link>https://markusknauer.github.io/tags/aimm/</link>
+      <link>http://localhost:1313/tags/aimm/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/aimm/</guid>
+      <guid>http://localhost:1313/tags/aimm/</guid>
       <description></description>
     </item>
     <item>
       <title>Assistive-Robotics</title>
-      <link>https://markusknauer.github.io/tags/assistive-robotics/</link>
+      <link>http://localhost:1313/tags/assistive-robotics/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/assistive-robotics/</guid>
+      <guid>http://localhost:1313/tags/assistive-robotics/</guid>
       <description></description>
     </item>
     <item>
       <title>Automatica</title>
-      <link>https://markusknauer.github.io/tags/automatica/</link>
+      <link>http://localhost:1313/tags/automatica/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/automatica/</guid>
+      <guid>http://localhost:1313/tags/automatica/</guid>
       <description></description>
     </item>
     <item>
       <title>DLR</title>
-      <link>https://markusknauer.github.io/tags/dlr/</link>
+      <link>http://localhost:1313/tags/dlr/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/dlr/</guid>
+      <guid>http://localhost:1313/tags/dlr/</guid>
       <description></description>
     </item>
     <item>
       <title>EDAN</title>
-      <link>https://markusknauer.github.io/tags/edan/</link>
+      <link>http://localhost:1313/tags/edan/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/edan/</guid>
+      <guid>http://localhost:1313/tags/edan/</guid>
       <description></description>
     </item>
     <item>
       <title>German-Aerospace-Center</title>
-      <link>https://markusknauer.github.io/tags/german-aerospace-center/</link>
+      <link>http://localhost:1313/tags/german-aerospace-center/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/german-aerospace-center/</guid>
+      <guid>http://localhost:1313/tags/german-aerospace-center/</guid>
       <description></description>
     </item>
     <item>
       <title>Haptic-Feedback</title>
-      <link>https://markusknauer.github.io/tags/haptic-feedback/</link>
+      <link>http://localhost:1313/tags/haptic-feedback/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/haptic-feedback/</guid>
+      <guid>http://localhost:1313/tags/haptic-feedback/</guid>
       <description></description>
     </item>
     <item>
       <title>HUG-Interface</title>
-      <link>https://markusknauer.github.io/tags/hug-interface/</link>
+      <link>http://localhost:1313/tags/hug-interface/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/hug-interface/</guid>
+      <guid>http://localhost:1313/tags/hug-interface/</guid>
       <description></description>
     </item>
     <item>
       <title>Humanoid-Robots</title>
-      <link>https://markusknauer.github.io/tags/humanoid-robots/</link>
+      <link>http://localhost:1313/tags/humanoid-robots/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/humanoid-robots/</guid>
+      <guid>http://localhost:1313/tags/humanoid-robots/</guid>
       <description></description>
     </item>
     <item>
       <title>KMP</title>
-      <link>https://markusknauer.github.io/tags/kmp/</link>
+      <link>http://localhost:1313/tags/kmp/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/kmp/</guid>
+      <guid>http://localhost:1313/tags/kmp/</guid>
       <description></description>
     </item>
     <item>
       <title>LLM-Robotics</title>
-      <link>https://markusknauer.github.io/tags/llm-robotics/</link>
+      <link>http://localhost:1313/tags/llm-robotics/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/llm-robotics/</guid>
+      <guid>http://localhost:1313/tags/llm-robotics/</guid>
       <description></description>
     </item>
     <item>
       <title>Munich</title>
-      <link>https://markusknauer.github.io/tags/munich/</link>
+      <link>http://localhost:1313/tags/munich/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/munich/</guid>
+      <guid>http://localhost:1313/tags/munich/</guid>
       <description></description>
     </item>
     <item>
       <title>Robotics</title>
-      <link>https://markusknauer.github.io/tags/robotics/</link>
+      <link>http://localhost:1313/tags/robotics/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/robotics/</guid>
+      <guid>http://localhost:1313/tags/robotics/</guid>
       <description></description>
     </item>
     <item>
       <title>SARA-Robot</title>
-      <link>https://markusknauer.github.io/tags/sara-robot/</link>
+      <link>http://localhost:1313/tags/sara-robot/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/sara-robot/</guid>
+      <guid>http://localhost:1313/tags/sara-robot/</guid>
       <description></description>
     </item>
     <item>
       <title>TORO</title>
-      <link>https://markusknauer.github.io/tags/toro/</link>
+      <link>http://localhost:1313/tags/toro/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/toro/</guid>
+      <guid>http://localhost:1313/tags/toro/</guid>
       <description></description>
     </item>
     <item>
       <title>Trade-Fair</title>
-      <link>https://markusknauer.github.io/tags/trade-fair/</link>
+      <link>http://localhost:1313/tags/trade-fair/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/trade-fair/</guid>
+      <guid>http://localhost:1313/tags/trade-fair/</guid>
       <description></description>
     </item>
     <item>
       <title>Trade-Fair-2025</title>
-      <link>https://markusknauer.github.io/tags/trade-fair-2025/</link>
+      <link>http://localhost:1313/tags/trade-fair-2025/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/trade-fair-2025/</guid>
+      <guid>http://localhost:1313/tags/trade-fair-2025/</guid>
       <description></description>
     </item>
     <item>
       <title>ICRA</title>
-      <link>https://markusknauer.github.io/tags/icra/</link>
+      <link>http://localhost:1313/tags/icra/</link>
       <pubDate>Mon, 28 Apr 2025 08:59:00 +0200</pubDate>
-      <guid>https://markusknauer.github.io/tags/icra/</guid>
+      <guid>http://localhost:1313/tags/icra/</guid>
       <description></description>
     </item>
     <item>
       <title>LLM</title>
-      <link>https://markusknauer.github.io/tags/llm/</link>
+      <link>http://localhost:1313/tags/llm/</link>
       <pubDate>Mon, 28 Apr 2025 08:59:00 +0200</pubDate>
-      <guid>https://markusknauer.github.io/tags/llm/</guid>
+      <guid>http://localhost:1313/tags/llm/</guid>
       <description></description>
     </item>
     <item>
       <title>RAG</title>
-      <link>https://markusknauer.github.io/tags/rag/</link>
+      <link>http://localhost:1313/tags/rag/</link>
       <pubDate>Mon, 28 Apr 2025 08:59:00 +0200</pubDate>
-      <guid>https://markusknauer.github.io/tags/rag/</guid>
+      <guid>http://localhost:1313/tags/rag/</guid>
       <description></description>
     </item>
     <item>
       <title>Incremental-Learning</title>
-      <link>https://markusknauer.github.io/tags/incremental-learning/</link>
+      <link>http://localhost:1313/tags/incremental-learning/</link>
       <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/incremental-learning/</guid>
+      <guid>http://localhost:1313/tags/incremental-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Interactive-Learning</title>
-      <link>https://markusknauer.github.io/tags/interactive-learning/</link>
+      <link>http://localhost:1313/tags/interactive-learning/</link>
       <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/interactive-learning/</guid>
+      <guid>http://localhost:1313/tags/interactive-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>RAL</title>
-      <link>https://markusknauer.github.io/tags/ral/</link>
+      <link>http://localhost:1313/tags/ral/</link>
       <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/ral/</guid>
+      <guid>http://localhost:1313/tags/ral/</guid>
       <description></description>
     </item>
     <item>
       <title>TP-KMP</title>
-      <link>https://markusknauer.github.io/tags/tp-kmp/</link>
+      <link>http://localhost:1313/tags/tp-kmp/</link>
       <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/tp-kmp/</guid>
+      <guid>http://localhost:1313/tags/tp-kmp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CoRL</title>
+      <link>http://localhost:1313/tags/corl/</link>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/corl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HRI</title>
+      <link>http://localhost:1313/tags/hri/</link>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hri/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Imitation-Learning</title>
+      <link>http://localhost:1313/tags/imitation-learning/</link>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/imitation-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spotlight</title>
+      <link>http://localhost:1313/tags/spotlight/</link>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/spotlight/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Workshop</title>
+      <link>http://localhost:1313/tags/workshop/</link>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/workshop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RSS</title>
+      <link>http://localhost:1313/tags/rss/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/rss/</guid>
       <description></description>
     </item>
     <item>
       <title>Demonstration</title>
-      <link>https://markusknauer.github.io/tags/demonstration/</link>
+      <link>http://localhost:1313/tags/demonstration/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/demonstration/</guid>
+      <guid>http://localhost:1313/tags/demonstration/</guid>
       <description></description>
     </item>
     <item>
       <title>Hannover-Fair</title>
-      <link>https://markusknauer.github.io/tags/hannover-fair/</link>
+      <link>http://localhost:1313/tags/hannover-fair/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/hannover-fair/</guid>
+      <guid>http://localhost:1313/tags/hannover-fair/</guid>
       <description></description>
     </item>
     <item>
       <title>Task-Parameterized</title>
-      <link>https://markusknauer.github.io/tags/task-parameterized/</link>
+      <link>http://localhost:1313/tags/task-parameterized/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/task-parameterized/</guid>
+      <guid>http://localhost:1313/tags/task-parameterized/</guid>
       <description></description>
     </item>
     <item>
       <title>Trade-Show</title>
-      <link>https://markusknauer.github.io/tags/trade-show/</link>
+      <link>http://localhost:1313/tags/trade-show/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/trade-show/</guid>
+      <guid>http://localhost:1313/tags/trade-show/</guid>
       <description></description>
     </item>
     <item>
       <title>Blender</title>
-      <link>https://markusknauer.github.io/tags/blender/</link>
+      <link>http://localhost:1313/tags/blender/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/blender/</guid>
+      <guid>http://localhost:1313/tags/blender/</guid>
       <description></description>
     </item>
     <item>
       <title>Computer-Vision</title>
-      <link>https://markusknauer.github.io/tags/computer-vision/</link>
+      <link>http://localhost:1313/tags/computer-vision/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/computer-vision/</guid>
+      <guid>http://localhost:1313/tags/computer-vision/</guid>
       <description></description>
     </item>
     <item>
       <title>Open-Source</title>
-      <link>https://markusknauer.github.io/tags/open-source/</link>
+      <link>http://localhost:1313/tags/open-source/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/open-source/</guid>
+      <guid>http://localhost:1313/tags/open-source/</guid>
       <description></description>
     </item>
     <item>
       <title>Synthetic-Data</title>
-      <link>https://markusknauer.github.io/tags/synthetic-data/</link>
+      <link>http://localhost:1313/tags/synthetic-data/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/synthetic-data/</guid>
+      <guid>http://localhost:1313/tags/synthetic-data/</guid>
       <description></description>
     </item>
     <item>
       <title>Blenderproc</title>
-      <link>https://markusknauer.github.io/tags/blenderproc/</link>
+      <link>http://localhost:1313/tags/blenderproc/</link>
       <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/blenderproc/</guid>
+      <guid>http://localhost:1313/tags/blenderproc/</guid>
       <description></description>
     </item>
     <item>
       <title>Continual-Learning</title>
-      <link>https://markusknauer.github.io/tags/continual-learning/</link>
+      <link>http://localhost:1313/tags/continual-learning/</link>
       <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/continual-learning/</guid>
+      <guid>http://localhost:1313/tags/continual-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Dataset</title>
-      <link>https://markusknauer.github.io/tags/dataset/</link>
+      <link>http://localhost:1313/tags/dataset/</link>
       <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/dataset/</guid>
+      <guid>http://localhost:1313/tags/dataset/</guid>
       <description></description>
     </item>
     <item>
       <title>IROS</title>
-      <link>https://markusknauer.github.io/tags/iros/</link>
+      <link>http://localhost:1313/tags/iros/</link>
       <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/iros/</guid>
+      <guid>http://localhost:1313/tags/iros/</guid>
       <description></description>
     </item>
     <item>
       <title>Object-Classification</title>
-      <link>https://markusknauer.github.io/tags/object-classification/</link>
+      <link>http://localhost:1313/tags/object-classification/</link>
       <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/object-classification/</guid>
+      <guid>http://localhost:1313/tags/object-classification/</guid>
       <description></description>
     </item>
     <item>
       <title>Research-Paper</title>
-      <link>https://markusknauer.github.io/tags/research-paper/</link>
+      <link>http://localhost:1313/tags/research-paper/</link>
       <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/research-paper/</guid>
+      <guid>http://localhost:1313/tags/research-paper/</guid>
       <description></description>
     </item>
   </channel>
