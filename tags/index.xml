@@ -6,8 +6,57 @@
     <description>Recent content in Tags on Markus Knauer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://markusknauer.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Foundation-Models</title>
+      <link>https://markusknauer.github.io/tags/foundation-models/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://markusknauer.github.io/tags/foundation-models/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Imitation-Learning</title>
+      <link>https://markusknauer.github.io/tags/imitation-learning/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://markusknauer.github.io/tags/imitation-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLM</title>
+      <link>https://markusknauer.github.io/tags/llm/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://markusknauer.github.io/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Natural-Language</title>
+      <link>https://markusknauer.github.io/tags/natural-language/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://markusknauer.github.io/tags/natural-language/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RAL</title>
+      <link>https://markusknauer.github.io/tags/ral/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://markusknauer.github.io/tags/ral/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Robotics</title>
+      <link>https://markusknauer.github.io/tags/robotics/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://markusknauer.github.io/tags/robotics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tool-Use</title>
+      <link>https://markusknauer.github.io/tags/tool-use/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://markusknauer.github.io/tags/tool-use/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AI-Education</title>
       <link>https://markusknauer.github.io/tags/ai-education/</link>
@@ -205,13 +254,6 @@
       <description></description>
     </item>
     <item>
-      <title>Robotics</title>
-      <link>https://markusknauer.github.io/tags/robotics/</link>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/robotics/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>SARA-Robot</title>
       <link>https://markusknauer.github.io/tags/sara-robot/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
@@ -247,13 +289,6 @@
       <description></description>
     </item>
     <item>
-      <title>LLM</title>
-      <link>https://markusknauer.github.io/tags/llm/</link>
-      <pubDate>Mon, 28 Apr 2025 08:59:00 +0200</pubDate>
-      <guid>https://markusknauer.github.io/tags/llm/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>RAG</title>
       <link>https://markusknauer.github.io/tags/rag/</link>
       <pubDate>Mon, 28 Apr 2025 08:59:00 +0200</pubDate>
@@ -275,13 +310,6 @@
       <description></description>
     </item>
     <item>
-      <title>RAL</title>
-      <link>https://markusknauer.github.io/tags/ral/</link>
-      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/ral/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>TP-KMP</title>
       <link>https://markusknauer.github.io/tags/tp-kmp/</link>
       <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
@@ -300,13 +328,6 @@
       <link>https://markusknauer.github.io/tags/hri/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://markusknauer.github.io/tags/hri/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Imitation-Learning</title>
-      <link>https://markusknauer.github.io/tags/imitation-learning/</link>
-      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/tags/imitation-learning/</guid>
       <description></description>
     </item>
     <item>

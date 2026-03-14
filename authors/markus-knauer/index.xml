@@ -6,8 +6,15 @@
     <description>Recent content on Markus Knauer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://markusknauer.github.io/authors/markus-knauer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>**RA-L 2026:** IROSA — Interactive Robot Skill Adaptation using Natural Language</title>
+      <link>https://markusknauer.github.io/posts/irosa-interactive-robot-skill-adaptation/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://markusknauer.github.io/posts/irosa-interactive-robot-skill-adaptation/</guid>
+      <description>&lt;p&gt;What if you could adapt a robot&amp;rsquo;s behavior just by talking to it? Our framework &lt;strong&gt;IROSA&lt;/strong&gt; enables open-vocabulary &lt;strong&gt;robot skill adaptation&lt;/strong&gt; through natural language using a &lt;strong&gt;tool-based architecture&lt;/strong&gt; that maintains a protective abstraction layer between the LLM and robot hardware.&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;picture class=&#34;demo-image&#34;&gt;&#xA;  &lt;source srcset=&#34;https://markusknauer.github.io/images/irosa_overview.webp&#34; type=&#34;image/webp&#34;&gt;&#xA;  &lt;img src=&#34;https://markusknauer.github.io/images/irosa_overview.png&#34; alt=&#34;Overview of the IROSA framework for interactive robot skill adaptation using natural language&#34; loading=&#34;lazy&#34;&gt;&#xA;&lt;/picture&gt;&#xA;&lt;p&gt;The LLM selects and parameterizes validated tool functions that modify the underlying motion model, enabling &lt;strong&gt;speed adjustments&lt;/strong&gt;, &lt;strong&gt;trajectory corrections&lt;/strong&gt;, and &lt;strong&gt;obstacle avoidance&lt;/strong&gt; — all &lt;strong&gt;without any fine-tuning&lt;/strong&gt;, zero-shot using only tool descriptions.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>**Summer Schools 2025:** ELLIS Cambridge &amp; OxML Oxford</title>
       <link>https://markusknauer.github.io/posts/summer-schools-2025/</link>

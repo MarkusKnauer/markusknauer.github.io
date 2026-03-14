@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <title>
+  **RA-L 2026:** IROSA — Interactive Robot Skill Adaptation using Natural Language · Markus Knauer
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="Markus Knauer">
+<meta name="description" content="IROSA: A tool-based framework enabling open-vocabulary robot skill adaptation through natural language using LLMs and Kernelized Movement Primitives. Published in IEEE RA-L 2026.">
+<meta name="keywords" content="robotics,artificial intelligence,machine learning,research,computer vision,interactive learning,continual learning,embodied AI,PhD,DLR,TUM">
+
+
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://markusknauer.github.io/images/avatar.jpg">
+  <meta name="twitter:title" content="**RA-L 2026:** IROSA — Interactive Robot Skill Adaptation using Natural Language">
+  <meta name="twitter:description" content="IROSA: A tool-based framework enabling open-vocabulary robot skill adaptation through natural language using LLMs and Kernelized Movement Primitives. Published in IEEE RA-L 2026.">
+
+<meta property="og:url" content="https://markusknauer.github.io/posts/irosa-interactive-robot-skill-adaptation/">
+  <meta property="og:site_name" content="Markus Knauer">
+  <meta property="og:title" content="**RA-L 2026:** IROSA — Interactive Robot Skill Adaptation using Natural Language">
+  <meta property="og:description" content="IROSA: A tool-based framework enabling open-vocabulary robot skill adaptation through natural language using LLMs and Kernelized Movement Primitives. Published in IEEE RA-L 2026.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2026-03-14T00:00:00+00:00">
+    <meta property="article:modified_time" content="2026-03-14T00:00:00+00:00">
+    <meta property="article:tag" content="LLM">
+    <meta property="article:tag" content="Robotics">
+    <meta property="article:tag" content="Imitation-Learning">
+    <meta property="article:tag" content="Natural-Language">
+    <meta property="article:tag" content="RAL">
+    <meta property="article:tag" content="Tool-Use">
+    <meta property="og:image" content="https://markusknauer.github.io/images/avatar.jpg">
+
+
+
+
+
+
+
+<link rel="preconnect" href="https://www.youtube.com" crossorigin>
+<link rel="preconnect" href="https://i.ytimg.com" crossorigin>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+
+<link rel="dns-prefetch" href="https://github.com">
+<link rel="dns-prefetch" href="https://linkedin.com">
+<link rel="dns-prefetch" href="https://scholar.google.com">
+<link rel="dns-prefetch" href="https://researchgate.net">
+
+
+
+
+
+<style>
+ 
+.wrapper { display: block; }
+.header { display: flex; align-items: center; }
+.navigation { display: flex; }
+.content { display: block; }
+</style>
+
+
+
+
+
+<meta property="og:title" content="**RA-L 2026:** IROSA — Interactive Robot Skill Adaptation using Natural Language" />
+<meta property="og:description" content="IROSA: A tool-based framework enabling open-vocabulary robot skill adaptation through natural language using LLMs and Kernelized Movement Primitives. Published in IEEE RA-L 2026." />
+<meta property="og:url" content="https://markusknauer.github.io/posts/irosa-interactive-robot-skill-adaptation/" />
+<meta property="og:site_name" content="Markus Knauer" />
+
+  
+    <meta property="og:image" content="https://markusknauer.github.io/images/irosa_overview.png" />
+  
+
+
+<meta property="og:image:alt" content="**RA-L 2026:** IROSA — Interactive Robot Skill Adaptation using Natural Language - Markus Knauer" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:updated_time" content="2026-03-14T00:00:00&#43;00:00" />
+
+
+  <meta property="og:type" content="article" />
+  <meta property="article:published_time" content="2026-03-14T00:00:00&#43;00:00" />
+  <meta property="article:modified_time" content="2026-03-14T00:00:00&#43;00:00" />
+  <meta property="article:author" content="Markus Knauer" />
+  
+    <meta property="article:tag" content="LLM" />
+  
+    <meta property="article:tag" content="robotics" />
+  
+    <meta property="article:tag" content="imitation-learning" />
+  
+    <meta property="article:tag" content="natural-language" />
+  
+    <meta property="article:tag" content="RAL" />
+  
+    <meta property="article:tag" content="tool-use" />
+  
+    <meta property="article:tag" content="foundation-models" />
+  
+  
+    <meta property="article:section" content="machine-learning" />
+  
+    <meta property="article:section" content="robotics" />
+  
+    <meta property="article:section" content="AI" />
+  
+
+
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@KnauerMarkus" />
+<meta name="twitter:creator" content="@KnauerMarkus" />
+<meta name="twitter:title" content="**RA-L 2026:** IROSA — Interactive Robot Skill Adaptation using Natural Language" />
+<meta name="twitter:description" content="IROSA: A tool-based framework enabling open-vocabulary robot skill adaptation through natural language using LLMs and Kernelized Movement Primitives. Published in IEEE RA-L 2026." />
+
+
+
+  <meta name="article:published_time" content="2026-03-14T00:00:00&#43;00:00" />
+  <meta name="article:modified_time" content="2026-03-14T00:00:00&#43;00:00" />
+
+
+
+<meta name="language" content="English" />
+<meta name="geo.region" content="DE-BY" />
+<meta name="geo.placename" content="Munich, Germany" />
+
+
+
+  <meta name="citation_author" content="Markus Knauer" />
+  <meta name="citation_title" content="**RA-L 2026:** IROSA — Interactive Robot Skill Adaptation using Natural Language" />
+  <meta name="citation_publication_date" content="2026/03/14" />
+  <meta name="citation_online_date" content="2026/03/14" />
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "**RA-L 2026:** IROSA — Interactive Robot Skill Adaptation using Natural Language",
+  "description": "IROSA: A tool-based framework enabling open-vocabulary robot skill adaptation through natural language using LLMs and Kernelized Movement Primitives. Published in IEEE RA-L 2026.",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https:\/\/markusknauer.github.io\/images\/irosa_overview.png",
+    "width": 1200,
+    "height": 630
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Markus Knauer",
+    "url": "https:\/\/markusknauer.github.io\/about/",
+    "sameAs": [
+      
+      "https:\/\/github.com\/MarkusKnauer"
+      
+      , "https:\/\/de.linkedin.com\/in\/markus-knauer"
+      
+      , "https:\/\/www.researchgate.net\/profile\/Markus-Knauer"
+      
+      , "https:\/\/scholar.google.com\/citations?user=z2qSMPsAAAAJ\u0026hl=de"
+      
+      , "https:\/\/bsky.app\/profile\/markusknauer.bsky.social"
+      
+      , "https:\/\/twitter.com\/KnauerMarkus"
+      
+    ],
+    "jobTitle": "Research Scientist",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "German Aerospace Center (DLR)"
+    }
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "Markus Knauer",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https:\/\/markusknauer.github.io\/images\/avatar.jpg",
+      "width": 300,
+      "height": 300
+    }
+  },
+  "datePublished": "2026-03-14T00:00:00\u002b00:00",
+  "dateModified": "2026-03-14T00:00:00\u002b00:00",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https:\/\/markusknauer.github.io\/posts\/irosa-interactive-robot-skill-adaptation\/"
+  },
+  "url": "https:\/\/markusknauer.github.io\/posts\/irosa-interactive-robot-skill-adaptation\/",
+  
+  "keywords": ["LLM", "robotics", "imitation-learning", "natural-language", "RAL", "tool-use", "foundation-models"],
+  
+  "articleSection": ["machine-learning", "robotics", "AI"],
+  "inLanguage": "en-US",
+  "copyrightYear": "2026",
+  "copyrightHolder": {
+    "@type": "Person",
+    "name": "Markus Knauer"
+  }
+}
+</script>
+
+
+
+<link rel="canonical" href="https://markusknauer.github.io/posts/irosa-interactive-robot-skill-adaptation/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.min.7ee04855f01a7f7a311ce189708f520a1a1d93c249cfed3b23e8c27666fc546e.css" integrity="sha256-fuBIVfAaf3oxHOGJcI9SChodk8JJz&#43;07I&#43;jCdmb8VG4=" crossorigin="anonymous" media="screen" />
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.min.a00e6364bacbc8266ad1cc81230774a1397198f8cfb7bcba29b7d6fcb54ce57f.css" integrity="sha256-oA5jZLrLyCZq0cyBIwd0oTlxmPjPt7y6KbfW/LVM5X8=" crossorigin="anonymous" media="screen" />
+  
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+  
+    
+    <link rel="stylesheet" href="/scss/custom.min.6c8517c74af09af9465bff798e401ee4730513e1feb911d610e7cc14cafadd57.css" integrity="sha256-bIUXx0rwmvlGW/95jkAe5HMFE&#43;H&#43;uRHWEOfMFMr63Vc=" crossorigin="anonymous" media="screen" />
+  
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation" id="navigation" aria-label="Main navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="/">
+      Markus Knauer
+    </a>
+    
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/posts/">Blog</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/cv/">CV</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/publications/">Publications</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/about/">About</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content" id="main-content">
+      
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="https://markusknauer.github.io/posts/irosa-interactive-robot-skill-adaptation/">
+              <strong>RA-L 2026:</strong> IROSA — Interactive Robot Skill Adaptation using Natural Language
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
+              <time datetime="2026-03-14T00:00:00Z">
+                March 14, 2026
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
+              
+            </span>
+          </div>
+          <div class="authors">
+  <i class="fa-solid fa-user" aria-hidden="true"></i>
+    <a href="/authors/markus-knauer/">Markus Knauer</a></div>
+
+          <div class="categories">
+  <i class="fa-solid fa-folder" aria-hidden="true"></i>
+    <a href="/categories/machine-learning/">Machine-Learning</a>
+      <span class="separator">•</span>
+    <a href="/categories/robotics/">Robotics</a>
+      <span class="separator">•</span>
+    <a href="/categories/ai/">AI</a></div>
+
+          <div class="tags">
+  <i class="fa-solid fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/tags/llm/">LLM</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/robotics/">Robotics</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/imitation-learning/">Imitation-Learning</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/natural-language/">Natural-Language</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/ral/">RAL</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/tool-use/">Tool-Use</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/foundation-models/">Foundation-Models</a>
+    </span></div>
+
+        </div>
+      </header>
+
+      <div class="post-content">
+        
+        <p>What if you could adapt a robot&rsquo;s behavior just by talking to it? Our framework <strong>IROSA</strong> enables open-vocabulary <strong>robot skill adaptation</strong> through natural language using a <strong>tool-based architecture</strong> that maintains a protective abstraction layer between the LLM and robot hardware.</p>
+
+
+
+
+
+
+<picture class="demo-image">
+  <source srcset="/images/irosa_overview.webp" type="image/webp">
+  <img src="/images/irosa_overview.png" alt="Overview of the IROSA framework for interactive robot skill adaptation using natural language" loading="lazy">
+</picture>
+<p>The LLM selects and parameterizes validated tool functions that modify the underlying motion model, enabling <strong>speed adjustments</strong>, <strong>trajectory corrections</strong>, and <strong>obstacle avoidance</strong> — all <strong>without any fine-tuning</strong>, zero-shot using only tool descriptions.</p>
+<p>Validated on a 7-DoF torque-controlled DLR SARA robot performing an industrial bearing ring insertion task.</p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/036xXLkkYJk?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+    </div>
+
+<ul>
+<li><a href="https://doi.org/10.1109/LRA.2026.3671560"  class="external-link" target="_blank" rel="noopener">Paper on IEEE</a></li>
+<li><a href="https://arxiv.org/abs/2603.03897"  class="external-link" target="_blank" rel="noopener">Paper on ArXiv</a></li>
+<li><a href="https://youtu.be/036xXLkkYJk"  class="external-link" target="_blank" rel="noopener">YouTube Link</a></li>
+</ul>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        <div id="disqus_thread"></div>
+<script>
+  window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "markusPersonalPage" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+    
+    document.addEventListener('themeChanged', function (e) { 
+        if (document.readyState == 'complete') {
+          DISQUS.reset({ reload: true, config: disqus_config });
+        }
+    });
+</script>
+        
+        
+        
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+      2025 -
+    
+    2026
+     Markus Knauer 
+    ·
+    
+     <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js" integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script>
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+</html>
