@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>KMP on Markus Knauer</title>
-    <link>https://markusknauer.github.io/tags/kmp/</link>
+    <link>http://localhost:1313/tags/kmp/</link>
     <description>Recent content in KMP on Markus Knauer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://markusknauer.github.io/tags/kmp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/kmp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>**MOMO:** Seamless Physical, Verbal, and Graphical Robot Skill Adaptation</title>
+      <link>http://localhost:1313/posts/momo-physical-verbal-graphical-skill-adaptation/</link>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/momo-physical-verbal-graphical-skill-adaptation/</guid>
+      <description>&lt;p&gt;What if non-expert operators could adapt an industrial robot&amp;rsquo;s skills as easily as touching, talking to, or clicking on it? Our framework &lt;strong&gt;MOMO&lt;/strong&gt; (&lt;strong&gt;Mo&lt;/strong&gt;tion &lt;strong&gt;Mo&lt;/strong&gt;dulation) unifies three complementary interaction modalities for seamless robot skill learning and adaptation.&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;picture class=&#34;&#34;&gt;&#xA;  &lt;source srcset=&#34;http://localhost:1313/images/momo_overview.webp&#34; type=&#34;image/webp&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/images/momo_overview.png&#34; alt=&#34;Overview of the MOMO framework unifying physical, verbal, and graphical modalities for robot skill adaptation&#34; loading=&#34;lazy&#34;&gt;&#xA;&lt;/picture&gt;&#xA;&lt;p&gt;MOMO integrates five components around a central motion modulation module:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Kinesthetic touch&lt;/strong&gt; for precise spatial corrections, using energy-tank-based human intention detection that automatically inserts via-points into the underlying motion model.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Natural language&lt;/strong&gt; for high-level semantic modifications through a tool-based LLM architecture that selects and parameterizes pre-validated functions — never generating executable code.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;A graphical web interface&lt;/strong&gt; (Vue.js/Three.js) for visualizing geometric relations, inspecting parameters, and editing via-points via drag-and-drop on a real-time digital twin.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Probabilistic Virtual Fixtures&lt;/strong&gt; for guided demonstration recording.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ergodic control&lt;/strong&gt; for surface finishing tasks.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;A key result: the tool-based LLM architecture &lt;strong&gt;generalizes beyond KMP-based skills to ergodic control&lt;/strong&gt;, enabling the same chat interface to drive voice-commanded surface finishing. Users freely switch between modalities — voice for obstacle avoidance, kinesthetic for fine corrections, graphical for verification.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>**Automatica 2025:** DLR Showcasing the Future of Robotics</title>
-      <link>https://markusknauer.github.io/posts/dlr-automatica-2025/</link>
+      <link>http://localhost:1313/posts/dlr-automatica-2025/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://markusknauer.github.io/posts/dlr-automatica-2025/</guid>
+      <guid>http://localhost:1313/posts/dlr-automatica-2025/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://automatica-munich.com/en/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Automatica 2025&lt;/a&gt; in Munich showcased the latest advances in robotics and automation technology. DLR made a strong impression with our expansive booth spanning two areas in Hall B4 (Stand 321/324), where we demonstrated cutting-edge robotics and AI integration.&lt;/p&gt;&#xA;&lt;h2 id=&#34;dlrs-robotics-showcase&#34;&gt;&#xA;  DLR&amp;rsquo;s Robotics Showcase&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#dlrs-robotics-showcase&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Our Institute of Robotics and Mechatronics presented five groundbreaking systems:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.dlr.de/de/rm/forschung/robotersysteme/humanoide/toro&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TORO&lt;/a&gt;&lt;/strong&gt; - Our bipedal humanoid robot demonstrates advanced locomotion, climbing stairs and navigating obstacles with enhanced perception capabilities.&lt;/p&gt;</description>
     </item>
   </channel>
