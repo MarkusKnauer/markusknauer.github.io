@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>DLR on Markus Knauer</title>
-    <link>http://localhost:1313/tags/dlr/</link>
-    <description>Recent content in DLR on Markus Knauer</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 27 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/dlr/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>**Automatica 2025:** DLR Showcasing the Future of Robotics</title>
-      <link>http://localhost:1313/posts/dlr-automatica-2025/</link>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/dlr-automatica-2025/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://automatica-munich.com/en/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Automatica 2025&lt;/a&gt; in Munich showcased the latest advances in robotics and automation technology. DLR made a strong impression with our expansive booth spanning two areas in Hall B4 (Stand 321/324), where we demonstrated cutting-edge robotics and AI integration.&lt;/p&gt;&#xA;&lt;h2 id=&#34;dlrs-robotics-showcase&#34;&gt;&#xA;  DLR&amp;rsquo;s Robotics Showcase&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#dlrs-robotics-showcase&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Our Institute of Robotics and Mechatronics presented five groundbreaking systems:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.dlr.de/de/rm/forschung/robotersysteme/humanoide/toro&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TORO&lt;/a&gt;&lt;/strong&gt; - Our bipedal humanoid robot demonstrates advanced locomotion, climbing stairs and navigating obstacles with enhanced perception capabilities.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>DLR on Markus Knauer</title>
+		<link>https://markusknauer.github.io/tags/dlr/</link>
+		<description>Recent content in DLR on Markus Knauer</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 05 Jun 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://markusknauer.github.io/tags/dlr/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>**Two Next-Gen Spotlight Awards** at ICRA 2026 in Vienna</title>
+				<link>https://markusknauer.github.io/posts/icra-2026-nextgen-spotlight-awards/</link>
+				<pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://markusknauer.github.io/posts/icra-2026-nextgen-spotlight-awards/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;m thrilled to share that at &lt;strong&gt;&lt;a href=&#34;https://2026.ieee-icra.org/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE ICRA 2026&lt;/a&gt;&lt;/strong&gt; in Vienna, our research on &lt;strong&gt;natural language-driven robot skill selection and adaptation&lt;/strong&gt; received &lt;strong&gt;two Next-Gen Spotlight Awards&lt;/strong&gt; — one for each of our frameworks, &lt;strong&gt;CLASP&lt;/strong&gt; and &lt;strong&gt;IROSA&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The awards were presented at the workshop &lt;strong&gt;&lt;a href=&#34;https://sites.google.com/vt.edu/icra2026-learning-hri&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bridging the Gap between Robot Learning and Human-Robot Interaction&lt;/a&gt;&lt;/strong&gt;, where six selected awardees gave spotlight presentations on work spanning shared control, language-driven robot skills, tactile human-intent recognition, and physical human-robot interaction.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>**Automatica 2025:** DLR Showcasing the Future of Robotics</title>
+				<link>https://markusknauer.github.io/posts/dlr-automatica-2025/</link>
+				<pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+				<guid>https://markusknauer.github.io/posts/dlr-automatica-2025/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://automatica-munich.com/en/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Automatica 2025&lt;/a&gt; in Munich showcased the latest advances in robotics and automation technology. DLR made a strong impression with our expansive booth spanning two areas in Hall B4 (Stand 321/324), where we demonstrated cutting-edge robotics and AI integration.&lt;/p&gt;&#xA;&lt;h2 id=&#34;dlrs-robotics-showcase&#34;&gt;&#xA;  DLR&amp;rsquo;s Robotics Showcase&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#dlrs-robotics-showcase&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Our Institute of Robotics and Mechatronics presented five groundbreaking systems:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.dlr.de/de/rm/forschung/robotersysteme/humanoide/toro&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TORO&lt;/a&gt;&lt;/strong&gt; - Our bipedal humanoid robot demonstrates advanced locomotion, climbing stairs and navigating obstacles with enhanced perception capabilities.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

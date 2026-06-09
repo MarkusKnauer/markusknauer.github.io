@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Award on Markus Knauer</title>
+		<link>https://markusknauer.github.io/tags/award/</link>
+		<description>Recent content in Award on Markus Knauer</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 05 Jun 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://markusknauer.github.io/tags/award/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>**Two Next-Gen Spotlight Awards** at ICRA 2026 in Vienna</title>
+				<link>https://markusknauer.github.io/posts/icra-2026-nextgen-spotlight-awards/</link>
+				<pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://markusknauer.github.io/posts/icra-2026-nextgen-spotlight-awards/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;m thrilled to share that at &lt;strong&gt;&lt;a href=&#34;https://2026.ieee-icra.org/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE ICRA 2026&lt;/a&gt;&lt;/strong&gt; in Vienna, our research on &lt;strong&gt;natural language-driven robot skill selection and adaptation&lt;/strong&gt; received &lt;strong&gt;two Next-Gen Spotlight Awards&lt;/strong&gt; — one for each of our frameworks, &lt;strong&gt;CLASP&lt;/strong&gt; and &lt;strong&gt;IROSA&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The awards were presented at the workshop &lt;strong&gt;&lt;a href=&#34;https://sites.google.com/vt.edu/icra2026-learning-hri&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bridging the Gap between Robot Learning and Human-Robot Interaction&lt;/a&gt;&lt;/strong&gt;, where six selected awardees gave spotlight presentations on work spanning shared control, language-driven robot skills, tactile human-intent recognition, and physical human-robot interaction.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
