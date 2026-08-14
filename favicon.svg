@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <style>
+    rect { fill: #1565c0; }
+    text { fill: #ffffff; }
+    @media (prefers-color-scheme: dark) {
+      rect { fill: #90caf9; }
+      text { fill: #10233a; }
+    }
+  </style>
+  <rect width="64" height="64" rx="12"/>
+  <text x="32" y="43" font-family="system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif"
+        font-size="30" font-weight="750" text-anchor="middle" letter-spacing="-1">MK</text>
+</svg>

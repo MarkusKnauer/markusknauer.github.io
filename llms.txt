@@ -1,0 +1,21 @@
+# Markus Knauer — Robotics & AI Researcher
+
+> Personal site of Markus Knauer, Research Scientist at the German Aerospace Center (DLR),
+> Institute of Robotics and Mechatronics, and PhD candidate at the Technical University of
+> Munich (TUM). Research: interactive robot skill learning, language-guided motion adaptation,
+> continual learning, and foundation models for robotics.
+
+## Projects
+- [MOMO](https://markusknauer.github.io/projects/momo/): physical, verbal & graphical robot skill adaptation (IEEE RA-P 2026)
+- [CLASP](https://markusknauer.github.io/projects/clasp/): language-driven robot skill selection and composition (ICRA 2026 Spotlight Award)
+- [IROSA](https://markusknauer.github.io/projects/irosa/): interactive robot skill adaptation with natural language (ICRA 2026 Spotlight Award)
+- [LOCI](https://markusknauer.github.io/projects/loci/): interactive incremental learning of robot skills (IEEE RA-L 2025)
+- [RACCOON](https://markusknauer.github.io/projects/raccoon/): grounded embodied question-answering (IEEE ICRA 2025)
+- [RECALL](https://markusknauer.github.io/projects/recall/): rehearsal-free continual learning (IEEE IROS 2022)
+- [HOWS-CL-25](https://markusknauer.github.io/projects/hows-cl-25/): 150k-image household-objects dataset for continual learning
+- [BlenderProc](https://markusknauer.github.io/projects/blenderproc/): photorealistic synthetic training data pipeline (3.4k+ GitHub stars)
+
+## Pages
+- [CV & publication list](https://markusknauer.github.io/cv/)
+- [About & contact](https://markusknauer.github.io/about/)
+- [News](https://markusknauer.github.io/news/)
